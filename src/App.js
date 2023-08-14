@@ -53,7 +53,7 @@ function App() {
     }
   }
 
-  console.log("azarul code has been changed");
+  console.log("test");
 
   return (
     <>
